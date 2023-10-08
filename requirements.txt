@@ -1,0 +1,12 @@
+certifi==2023.7.22
+charset-normalizer==3.3.0
+idna==3.4
+mega.py==1.0.8
+pathlib==1.0.1
+plyer==2.1.0
+pycryptodome==3.19.0
+requests==2.31.0
+six==1.16.0
+speedtest==0.0.1
+tenacity==5.1.5
+urllib3==2.0.6
